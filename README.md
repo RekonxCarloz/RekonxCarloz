@@ -2,6 +2,10 @@
   Bienvenido a mi perfil de Github. 
 </h2>
 
+<h3>
+  <a href="https://www.linkedin.com/rcobain/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+</h3>
+
 <h3 align="center">
   <img height="178em" width="380em" src="https://github-readme-stats.vercel.app/api?username=RekonxCarloz&theme=dracula" />
 &nbsp  
