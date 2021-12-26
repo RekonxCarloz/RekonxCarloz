@@ -3,7 +3,7 @@
 </h2>
 
 <h3 align="center">
-  <a href="https://www.linkedin.com/in/rcobain/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Carlos%Cobián&Mora-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/rcobain/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Carlos%20Cobián%20Mora-blue?style=flat-square&logo=linkedin"></a>
 </h3>
 
 <h3 align="center">
