@@ -1,9 +1,11 @@
 <h2> 
   Hola, soy Carlos 👋
 </h2>
+<h3>
+  Actualmente me encuentro desarrollando en iOS con Swift. 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RekonxCarloz&theme=dracula" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RekonxCarloz&layout=compact&theme=dracula" />
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=RekonxCarloz&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RekonxCarloz&layout=compact&theme=dracula&hide_title=true" />
 
 <!--
 **RekonxCarloz/RekonxCarloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
