@@ -3,7 +3,7 @@
 </h2>
 
 <h3>
-  <a href="https://www.linkedin.com/rcobain/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/rcobain/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rcobain%20Singh-blue?style=flat-square&logo=linkedin"></a>
 </h3>
 
 <h3 align="center">
