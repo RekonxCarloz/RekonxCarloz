@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img height="180em" source="https://github-readme-stats.vercel.app/api?username=RekonxCarloz&theme=dracula">
+<img height="180em" source="https://github-readme-stats.vercel.app/api?username=RekonxCarloz&theme=dracula"/>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RekonxCarloz)
