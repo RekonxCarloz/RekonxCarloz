@@ -1,9 +1,9 @@
-### Hi there 👋
+<h2> 
+  Hola, soy Carlos 👋
+</h2>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RekonxCarloz&theme=dracula" />
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RekonxCarloz&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RekonxCarloz&layout=compact&theme=dracula" />
 
 <!--
 **RekonxCarloz/RekonxCarloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
