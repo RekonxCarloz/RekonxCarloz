@@ -2,7 +2,9 @@
   Bienvenido a mi perfil de Github. 
 </h2>
 <p align="center">
-  <img src="./github-metrics.svg">
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="./github-metrics.svg">
+  </a>
 </p> 
 <h3>
   <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=RekonxCarloz&theme=dracula" />
