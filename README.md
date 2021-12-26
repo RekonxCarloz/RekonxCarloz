@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RekonxCarloz&theme=Dracula)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RekonxCarloz&theme=tokyonight)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RekonxCarloz)
