@@ -3,7 +3,8 @@
 </h2>
 
 <h3 align="center">
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=RekonxCarloz&theme=dracula" />
+  <img height="175em" width="380em" src="https://github-readme-stats.vercel.app/api?username=RekonxCarloz&theme=dracula" />
+&nbps  
   <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RekonxCarloz&layout=compact&theme=dracula&hide_title=true" />
 </h3>
 <!--
