@@ -2,8 +2,8 @@
   Bienvenido a mi perfil de Github. 
 </h2>
 
-<h3>
-  <a href="https://www.linkedin.com/rcobain/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rcobain%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<h3 align="center">
+  <a href="https://www.linkedin.com/in/rcobain/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Carlos%Cobián&Mora-blue?style=flat-square&logo=linkedin"></a>
 </h3>
 
 <h3 align="center">
