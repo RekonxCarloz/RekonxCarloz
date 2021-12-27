@@ -1,5 +1,5 @@
 <h2 align="center"> 
-  ¡Bienvenido a mi perfil!. 
+  ¡Bienvenido(a) a mi perfil!. 
 </h2>
 
 <h3 align="center">
